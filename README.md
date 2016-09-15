@@ -1,6 +1,9 @@
 
 
 # NodeTestProject
+This is a test project to get my feet with with nodejs.
+Here's a plugin I found for eclipse. Seemed to get me up and running quickly.
+http://www.nodeclipse.org/
 
 
 
